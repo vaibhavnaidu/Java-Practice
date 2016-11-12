@@ -104,17 +104,3 @@ public class LinkedListDemo<T> {
 		return size;
 	}
 }
-
-class Node<T> {
-	private T data;
-	Node<T> next;
-
-	Node(T data) {
-		this.data = data;
-		this.next = null;
-	}
-
-	public T getData() {
-		return data;
-	}
-}
