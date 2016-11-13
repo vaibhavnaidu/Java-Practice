@@ -1,4 +1,4 @@
-//This program is a practice program for queue
+// Practice program for Queues
 
 public class QueueDemo<T> {
 	int size = 0;
